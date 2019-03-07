@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70483" started-at="2019-03-06T09:38:42Z" finished-at="2019-03-06T09:39:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70483" started-at="2019-03-06T09:38:42Z" finished-at="2019-03-06T09:39:52Z">
+      <class name="calc.HandlingDropdown">
+        <test-method status="PASS" signature="dropdownHandling()[pri:0, instance:calc.HandlingDropdown@cb51256]" name="dropdownHandling" duration-ms="70444" started-at="2019-03-06T09:38:42Z" finished-at="2019-03-06T09:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownHandling -->
+      </class> <!-- calc.HandlingDropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
